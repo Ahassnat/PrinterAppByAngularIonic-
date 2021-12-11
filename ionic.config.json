@@ -1,0 +1,7 @@
+{
+  "name": "Printer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
